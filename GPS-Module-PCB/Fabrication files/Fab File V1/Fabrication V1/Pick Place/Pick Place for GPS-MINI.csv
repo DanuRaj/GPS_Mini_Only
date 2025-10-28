@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations,,,,,,,
+E:\QRBOTS\PCB Projects\GPS_Mini_Only\GPS-Module-PCB\Project Outputs for GPS-Module-PCB\Pick Place\Pick Place for GPS-Module-New.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       28/10/25,,,,,,,
+Time:       17:49,,,,,,,
+Revision:   494db464c776d3347224ecfa0f04beae7672433e,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+U9,TVS0500DRVR,TopLayer,DRV0006A_NV,1.778,7.366,0,5V flat-clamp surge protection device 6-WSON -40 to 125
+U8,AT24C512C-MAHM-T,TopLayer,8MA2_ATM_EEPROM,24.9974,12.323,180,IC EEPROM 512KBIT I2C 8UDFN
+U7,LT6000CDCB#TRPBF,TopLayer,DFN-6_DCB,32.131,26.5176,90,Op Amp Single Low Power Amplifier R-R I/O 18V Automotive 6-Pin DFN EP T/R
+U6,SN74LVC3G07QDCURQ1,TopLayer,DCU8_TEX_SN74,28.067,26.5176,270,"Automotive 3-ch, 1.65-V to 5.5-V buffers with open-drain outputs 8-VSSOP -40 to 125"
+U5,ZED-F9P-04B,TopLayer,MODULE_ZED-F9P-04B,11.347,18.165,180,"series RF Receiver BeiDou, Galileo, GLONASS, GNSS, GPS 1.207GHz, 1.2276GHz, 1.246GHz, 1.561GHz, 1.575GHz, 1.602GHz -167dBm 921.6kbps - 54-LGA (22x17)"
+U4,ESD7104MUTAG,TopLayer,UDFN10_ONS_ESD,5.842,7.6835,270,TVS DIODE 5VWM 10VC 10UDFN
+U3,ESDR0502NMUTBG,BottomLayer,UDFN6_517AA_ONS,30.099,4.445,0,TVS DIODE 5.5VWM 6UDFN
+U2,NCV8705MT33TCG,TopLayer,WDFN6_2X2_ONS,28.283,6.506,90,Linear Voltage Regulator IC Positive Fixed 1 Output 500mA 6-WDFN (2x2)
+U1,RB751V40T1G,TopLayer,SOD-323_1P8X1P35_ONS,28.702,14.3891,90,Diode 30 V 30mA Surface Mount SOD-323
+SW1,4.35151E+11,TopLayer,4.35151E+11,24.472,16.078,90,"WS-TASV SMT Tact Switch with ground terminal, L3 x W2.6 x H1.4mm, 450g, SPST-NO, 12V, 50mA"
+R14,100R,TopLayer,RES_0402_1005,26.797,17.228,90,Res Thick Film 0402 100 Ohm 1% 0.2W ±100ppm/°C Molded SMD SMD Paper T/R
+R13,18R,TopLayer,RES_0402_1005,34.036,22.777,90,Res Thick Film 0402 18 Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R12,100K,TopLayer,RES_0402_1005,34.036,26.46,270,Res Thick Film 0402 100K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R11,1K,TopLayer,RES_0402_1005,34.036,24.594,270,Res Thick Film 0402 1K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R10,0R,TopLayer,RES_0402_1005,28.321,23.3866,90,"GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"
+R9,27R,BottomLayer,RES_0402_1005,18.84,11.176,0,Res General Purpose Thick Film 0402 27 Ohm 5% 1/16W ±100ppm/°C Molded SMD Paper T/R
+R8,27R,BottomLayer,RES_0402_1005,18.84,12.192,0,Res General Purpose Thick Film 0402 27 Ohm 5% 1/16W ±100ppm/°C Molded SMD Paper T/R
+R7,100K,TopLayer,RES_0402_1005,30.353,23.3866,90,Res Thick Film 0402 100K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R6,0R,TopLayer,RES_0402_1005,29.337,23.3866,90,"GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"
+R5,100K,TopLayer,RES_0402_1005,16.256,8.338,90,Res Thick Film 0402 100K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R4,5K1,TopLayer,RES_0402_1005,32.766,3.556,180,Res Thick Film 0402 5.1K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R3,5K1,TopLayer,RES_0402_1005,32.81,6.477,0,Res Thick Film 0402 5.1K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R
+R2,100R,TopLayer,RES_0402_1005,25.991,5.969,0,Res Thick Film 0402 100 Ohm 1% 0.2W ±100ppm/°C Molded SMD SMD Paper T/R
+R1,3K,TopLayer,RES_0402_1005,28.702,11.22,90,Res Thick Film 0402 3K Ohm 1% 0.1W ±100ppm/°C Molded SMD Punched Carrier T/R
+Q1,DMC2990UDJ-7,TopLayer,SOTFL35P100X50-6N,32.131,23.7236,180,Complem. Pair Enhancement MOSFET SOT-963
+PWR,VLMB1500-GS08,TopLayer,LED_500-GS08_VIS,24.638,6.477,270,CHIPLED(0402) BLUE ULTRABRIGHT -e4
+L1,120 nH,TopLayer,INDC1005X60N,17.8233,27.4872,0,"Inductor with Inductance: 120nH Tol. +/-5%, Package: 0402 _1005_"
+J3,CONMHF1-SMD-G-T,TopLayer,LINX_CONMHF1-SMD-G-T,11.175,30.48,270,U.FL/MHF1 Jack 50 Ohm PCB Surface Mount
+J2,SM06B-GHS-TB,TopLayer,CONN_SM06B-GHS-TB_JST,5.864,3.3526,0,CONN HEADER SMD R/A 6POS 1.25MM
+J1,USB4105-GF-A,BottomLayer,GCT_USB4105-GF-A,34.9605,5.207,270,CONN RCP USB2.0 TYP C 24P SMD RA
+D1,PESD0402-140,TopLayer,PESD0402-140_LTF,14.097,29.972,270,TVS DIODE 14VWM 40VC 0402
+C12,100nF,TopLayer,CAP_0402_1005,24.445,9.974,90,"Capacitor, Multilayer, Ceramic, 10V, 10%, X7R, 15% Tc, 0.1Uf, Surface Mount, 0402"
+C11,1uF,TopLayer,CAP_0402_1005,25.461,9.974,90,"Ceramic Capacitor, Ceramic, 16V, 10% +Tol, 10% -Tol, X6S, 22% TC, 1uF, Surface Mount, 0402"
+C10,10nF,TopLayer,CAP_0402_1005,26.797,14.918,270,Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V 0.01uF X7R 0402 10%
+C9,10nF,TopLayer,CAP_0402_1005,35.179,22.792,270,0402 10000 pF 16 V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C8,1uF,TopLayer,CAP_0402_1005,30.099,27.6016,90,"Ceramic Capacitor, Ceramic, 16V, 10% +Tol, 10% -Tol, X6S, 22% TC, 1uF, Surface Mount, 0402"
+C7,1uF,TopLayer,CAP_0402_1005,30.099,25.5016,270,"Ceramic Capacitor, Ceramic, 16V, 10% +Tol, 10% -Tol, X6S, 22% TC, 1uF, Surface Mount, 0402"
+C6,4.7uF,TopLayer,CAP_0603_1608,13.041,8.382,0,"Multilayer Ceramic Capacitor, CC Series, 4.7 - F, - 10%, X5R, 6.3 V, 0603 [1608 Metric]"
+C5,1uF,TopLayer,CAP_0402_1005,9.779,8.323,90,"Ceramic Capacitor, Ceramic, 16V, 10% +Tol, 10% -Tol, X6S, 22% TC, 1uF, Surface Mount, 0402"
+C4,100nF,TopLayer,CAP_0402_1005,10.795,8.323,90,"Capacitor, Multilayer, Ceramic, 10V, 10%, X7R, 15% Tc, 0.1Uf, Surface Mount, 0402"
+C3,1uF,TopLayer,CAP_0402_1005,15.24,8.323,90,"Ceramic Capacitor, Ceramic, 16V, 10% +Tol, 10% -Tol, X6S, 22% TC, 1uF, Surface Mount, 0402"
+C2,10uF,TopLayer,CAP_0402_1005,25.976,7.112,0,"Ceramic Capacitor, Ceramic, 10V, 20% +Tol, 20% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0402"
+C1,10uF,TopLayer,CAP_0402_1005,30.226,7.298,270,"Ceramic Capacitor, Ceramic, 10V, 20% +Tol, 20% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0402"
+BT1,MS621FE-FL11E,TopLayer,BAT_MS621FE-FL11E,31.217,14.0836,180,"Coin, 6.8mm 3 V Lithium Battery Rechargeable (Secondary) 5.5mAh"

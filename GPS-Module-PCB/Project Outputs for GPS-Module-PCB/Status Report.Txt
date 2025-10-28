@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [GPS-Module-New.PcbDoc]
+   Generated File[Pick Place for GPS-Module-New.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:49:47 PM On 10/28/2025
