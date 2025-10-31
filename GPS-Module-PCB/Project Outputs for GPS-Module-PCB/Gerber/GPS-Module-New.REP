@@ -16,57 +16,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : GPS-Module-New.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D22
-    D23
-    D25
-    D30
-    D31
-    D32
-    D34
-    D38
-    D39
-    D40
-    D41
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
 Generating : Int1 (GND)
       File : GPS-Module-New.G1
 
@@ -82,6 +31,17 @@ Used DCodes :
     D78
     D79
     D80
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : GPS-Module-New.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
 *************************************************************
 
 *************************************************************
@@ -142,85 +102,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : GPS-Module-New.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : GPS-Module-New.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D81
-    D82
-    D83
-    D84
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : GPS-Module-New.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D21
-    D64
-    D73
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : GPS-Module-New.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D50
-    D64
-    D65
-    D66
-    D67
-    D81
-    D82
-    D83
-    D84
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : GPS-Module-New.GTP
 
@@ -265,6 +146,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : GPS-Module-New.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Int2 (PWR)
       File : GPS-Module-New.G2
 
@@ -288,14 +181,121 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : GPS-Module-New.GM1
+Generating : Bottom Layer
+      File : GPS-Module-New.GBL
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
+    D16
+    D21
+    D64
+    D73
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : GPS-Module-New.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D22
+    D23
+    D25
+    D30
+    D31
+    D32
+    D34
+    D38
+    D39
+    D40
+    D41
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : GPS-Module-New.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D81
+    D82
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : GPS-Module-New.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D64
+    D65
+    D66
+    D67
+    D81
+    D82
+    D83
+    D84
 *************************************************************
 
 *************************************************************
