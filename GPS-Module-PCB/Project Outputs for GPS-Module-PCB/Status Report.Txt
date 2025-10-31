@@ -1,10 +1,27 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:02:03 PM On 10/31/2025
+
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of PCB Document [GPS-Module-New.PcbDoc]
-   Generated File[Pick Place for GPS-Module-New.csv]
+   Generated File[GPS-Module-New.GTO]
+   Generated File[GPS-Module-New.GTP]
+   Generated File[GPS-Module-New.GTS]
+   Generated File[GPS-Module-New.GTL]
+   Generated File[GPS-Module-New.G1]
+   Generated File[GPS-Module-New.G2]
+   Generated File[GPS-Module-New.GBL]
+   Generated File[GPS-Module-New.GBS]
+   Generated File[GPS-Module-New.GBP]
+   Generated File[GPS-Module-New.GBO]
+   Generated File[GPS-Module-New.GM1]
+   Generated File[GPS-Module-New.GM]
+   Generated File[GPS-Module-New.EXTREP]
+   Generated File[GPS-Module-New.REP]
 
 
-Files Generated   : 1
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 5:49:47 PM On 10/28/2025
+Finished Output Generation At 12:02:04 PM On 10/31/2025

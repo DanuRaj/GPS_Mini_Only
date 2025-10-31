@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\QRBOTS\PCB Projects\GPS_Mini_Only\GPS-Module-PCB\GPS-Module-New.PcbDoc
-Date     : 10/28/2025
-Time     : 4:44:55 PM
+Date     : 10/31/2025
+Time     : 11:54:01 AM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (InNet('ANT_SUPPLY')),(InNet('GND'))
 Rule Violations :0
@@ -30,7 +30,7 @@ Rule Violations :0
 Processing Rule : Minimum Annular Ring (Minimum=4mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=6mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=8mil) (Max=100mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)

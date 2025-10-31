@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J2-8
+Change component parameters: Designator = "U9" ("U9"); Footprint = "DRV0006A_NV"; UniqueID = "\VUZJARXX" ("\VUZJARXX")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "TVS0500DRVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TEST_POINT)
+Added Pin To Net: NetName=EXTINT Pin=TP6-1
+Added Pin To Net: NetName=EXTINT Pin=U5-51
+Added Net: Name=EXTINT
+Added Member To Class: ClassName=GNSS Member=Component TP6 TEST_POINT
