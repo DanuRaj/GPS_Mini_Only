@@ -134,23 +134,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=Fabrication files\Fab File V1\Trace impedance and stackup.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UDTBBKHP
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for GPS-Module-PCB\BOM\Bill of Materials-GPS-Module-New.xlsx
 DItemRevisionGUID=

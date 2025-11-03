@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\QRBOTS\PCB Projects\GPS_Mini_Only\GPS-Module-PCB\GPS-Module-New.PcbDoc
-Date     : 10/31/2025
-Time     : 11:54:01 AM
+Date     : 11/3/2025
+Time     : 10:22:55 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (InNet('ANT_SUPPLY')),(InNet('GND'))
 Rule Violations :0
