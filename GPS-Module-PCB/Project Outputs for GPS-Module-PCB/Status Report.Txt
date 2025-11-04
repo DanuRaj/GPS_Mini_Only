@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [GPS-Module-New.PcbDoc]
+   Generated File[GPS-Module-New.GTO]
+   Generated File[GPS-Module-New.GTP]
+   Generated File[GPS-Module-New.GTS]
+   Generated File[GPS-Module-New.GTL]
+   Generated File[GPS-Module-New.G1]
+   Generated File[GPS-Module-New.G2]
+   Generated File[GPS-Module-New.GBL]
+   Generated File[GPS-Module-New.GBS]
+   Generated File[GPS-Module-New.GBP]
+   Generated File[GPS-Module-New.GBO]
+   Generated File[GPS-Module-New.GM1]
+   Generated File[GPS-Module-New.GM]
+   Generated File[GPS-Module-New.EXTREP]
+   Generated File[GPS-Module-New.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 10:24:57 PM On 11/3/2025

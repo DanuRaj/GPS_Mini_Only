@@ -1,0 +1,14 @@
+Added Component: Designator=U9(DRV0006A_NV)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TVS0500DRVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=VBUS Pin=U9-4
+Added Pin To Net: NetName=VBUS Pin=U9-5
+Added Pin To Net: NetName=VBUS Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Member To Class: ClassName=GNSS Member=Component U9 TVS0500DRVR

@@ -101,23 +101,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YINKOJAD
 
 [Document4]
-DocumentPath=GPS-Module.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WEWUISYW
-
-[Document5]
 DocumentPath=GPS-Module-New.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,8 +117,105 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNQRGTXV
 
+[Document5]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for GPS-Module-PCB\BOM\Bill of Materials-GPS-Module-New.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for GPS-Module-PCB\Design Rule Check - GPS-Module-New.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for GPS-Module-PCB\NC Drill\GPS-Module-New-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for GPS-Module-PCB\NC Drill\GPS-Module-New-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for GPS-Module-PCB\NC Drill\GPS-Module-New.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GM
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for GPS-Module-PCB\NC Drill\GPS-Module-New.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for GPS-Module-PCB\Gerber\GPS-Module-New.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for GPS-Module-PCB\Pick Place\Pick Place for GPS-Module-New.csv
 DItemRevisionGUID=
 
 [Configuration1]
