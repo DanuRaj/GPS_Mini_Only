@@ -5,8 +5,8 @@
 The GPS-MINI is a compact, high-precision GNSS receiver module based on the u-blox ZED-F9P-04B. It is designed to provide centimeter-level positioning accuracy through dual-band GNSS and RTK (Real-Time Kinematic) support.
 
 ## Board Function Description
-- Controller Interface: The device can be configured through USB or UART1 interface using u-blox u-center software.
-- Key Features: It has included with Battery backup system, External I2C EEPROM to store configuration and firmware data and Antenna supervisor
+- Controller Interface: The device can be configured via USB or UART1 interface using u-blox u-center software.
+- Key Features: It has included a Battery backup system, an External I2C EEPROM for storing configuration and firmware data and an Antenna supervisor
   circuit that automatically powers, protects, and monitors the connected antenna.
 
 
